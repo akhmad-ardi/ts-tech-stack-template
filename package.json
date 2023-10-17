@@ -1,0 +1,16 @@
+{
+  "name": "ts-tech-stack-template",
+  "version": "1.0.0",
+  "description": "starter template full stack",
+  "scripts": {
+    "server:dev": "cd server && pnpm run start:dev",
+    "server:build": "cd server && pnpm run build",
+    "server:start": "cd server && pnpm run start",
+    "web:dev": "cd web && pnpm run dev",
+    "web:build": "cd web && pnpm run build",
+    "web:start": "cd web && pnpm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED"
+}
