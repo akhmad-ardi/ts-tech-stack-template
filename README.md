@@ -1,17 +1,49 @@
-# Next.js + NestJs + Tailwindcss
+## Description
 
-This repo is a template for creating a web app using NextJS, Tailwindcss and NestJS created by [@akhmad-ardi](https://github.com/akhmad-ardi).
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Tech Stack
+## Installation
 
-**Client:** [NextJs](https://nextjs.org), [Tailwindcss](https://tailwindcss.com)
+```bash
+$ pnpm install
+```
 
-**Server:** [Node](https://nodejs.org), [NestJs](https://nestjs.com)
+## Running the app
 
-## Authors
+```bash
+# development
+$ pnpm run start
 
-- [@akhmad-ardi](https://github.com/akhmad-ardi)
+# watch mode
+$ pnpm run start:dev
+
+# production mode
+$ pnpm run start:prod
+```
+
+## Test
+
+```bash
+# unit tests
+$ pnpm run test
+
+# e2e tests
+$ pnpm run test:e2e
+
+# test coverage
+$ pnpm run test:cov
+```
+
+## Support
+
+Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+
+## Stay in touch
+
+- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Website - [https://nestjs.com](https://nestjs.com/)
+- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
-[UNLICENSED]()
+Nest is [MIT licensed](LICENSE).
