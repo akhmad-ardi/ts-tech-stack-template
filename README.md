@@ -1,49 +1,21 @@
-## Description
+## TYPESCRIPT TECHNOLOGY STACK TEMPLATE
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This repository is monorepo for build app with [NestJS](https://docs.nestjs.com/) and [NextJS](https://nextjs.org/docs) by [@akhmad-ardi](https://www.github.com/akhmad-ardi).
 
 ## Installation
 
-```bash
-$ pnpm install
-```
-
-## Running the app
+Clone this project and Install dependencies with [pnpm](https://pnpm.io/)
 
 ```bash
-# development
-$ pnpm run start
-
-# watch mode
-$ pnpm run start:dev
-
-# production mode
-$ pnpm run start:prod
+  pnpm install
 ```
 
-## Test
+If you want use third party library, you can install as usual
 
 ```bash
-# unit tests
-$ pnpm run test
-
-# e2e tests
-$ pnpm run test:e2e
-
-# test coverage
-$ pnpm run test:cov
+  pnpm i <name-library> [options]
 ```
 
-## Support
+## Authors
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+- [@akhmad-ardi](https://www.github.com/akhmad-ardi)
